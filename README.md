@@ -45,4 +45,4 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor apaixonado por criar soluç
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreluiztorres&show_icons=true&theme=dark)](https://github.com/andreluiztorres)
 
-
+![snake gif](https://github.com/andreluiztorres/andreluiztorres/blob/output/github-contribution-grid-snake.svg)
