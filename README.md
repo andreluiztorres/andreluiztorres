@@ -1,8 +1,11 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&reversal=false
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+André+Luiz+Torres;Seja+bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+
+<br>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541995298870&text=Me%20interessei%20pelo%20seu%20trabalho,%20podemos%20conversar%3F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-torres-b367a062/)
-
 
 Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor apaixonado por criar soluções inovadoras. Abaixo, você encontrará mais informações sobre mim, as tecnologias que uso e alguns dos projetos aos quais tenho contribuído.
 
