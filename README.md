@@ -44,7 +44,4 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor apaixonado por criar soluç
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreluiztorres&show_icons=true&theme=dark)](https://github.com/andreluiztorres)
 
-## Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-luiz-torres-b367a062/)
 
