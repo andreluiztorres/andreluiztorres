@@ -18,19 +18,20 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor apaixonado por criar soluç
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiztorres&layout=compact)
 
 - Linguagens de programação: 
-  JS
-  Dart
+  JS,
+  Dart;
+- Mobile: Flutter, React Native;
 - Frontend: 
-  ReactJS
-  VUE
+  ReactJS,
+  VUE;
 - Backend: 
-  NodeJS
+  NodeJS;
 - Banco de dados: 
-  MySQL
-  SQL Server
-  MongoDB
+  MySQL,
+  SQL Server,
+  MongoDB;
 - Ferramentas: 
-  AWS
+  AWS;
 
 ## Projetos Destacados
 
