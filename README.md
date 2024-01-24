@@ -47,4 +47,6 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor apaixonado por criar soluç
 
 ![snake gif](https://github.com/andreluiztorres/andreluiztorres/blob/output/github-contribution-grid-snake.svg)
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)](https://github.com/andreluiztorres)
+![Snake animation](https://github-contributions-api.now.sh/v1/andreluiztorres)
+
+
