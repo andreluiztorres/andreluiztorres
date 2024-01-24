@@ -1,4 +1,4 @@
-# Olá, eu sou André Luiz Torres
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&reversal=false
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541995298870&text=Me%20interessei%20pelo%20seu%20trabalho,%20podemos%20conversar%3F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-torres-b367a062/)
