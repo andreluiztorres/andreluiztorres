@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor apaixonado por criar soluç
 ## Sobre mim
 
 - 👨‍💻 Desenvolvedor Full Stack
-- 🌍 Localisado em Curitiba / PR
+- 🌍 Localizado em Curitiba / PR
 - 🎓 Bacharel em Engenharia da Computação
 - 📧 Entre em contato: andre.torres.ti@gmail.com ou WhatsApp +55 41 99529-8870
 
